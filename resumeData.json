@@ -73,15 +73,15 @@
         "url":"https://github.com/babychoujr/Checkers_AI"
       },
       {
-        "title":"Reddit Application",
-        "category":"Android app used to allow users to create posts and reply to posts. Users can choose to like/dislike on other posts.",
-        "image":"fury-fighting-gear.jpg",
-        "url":"https://github.com/babychoujr/Android-Reddit-App"
+        "title":"Columns(Tetris)",
+        "category":"A game similar to the traditional popular game of Tetris.",
+        "image":"columns.jpg",
+        "url":"https://github.com/babychoujr/Tetris"
       },
       {
         "title":"UCI Machine Learning Hacks",
         "category":"A ml model used to classify the condition of the patient to check how urgent treatment is needed.",
-        "image":"uci_machine.gif",
+        "image":"uci_machine.jpg",
         "url":"https://github.com/babychoujr/UCI-ML-Hacks"
       },
       {
