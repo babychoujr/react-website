@@ -1,0 +1,115 @@
+{
+  "main": {
+    "name":"Eric Chou",
+    "occupation":"Software Engineer",
+    "description":"I am interested in becoming a software engineer in the future focused on the fields of AI, machine learning, and information retrieval.",
+    "image":"profilepic.jpg",
+    "bio":"Hi, I'm Eric. I am currently a senior computer science major at the University of California, Irvine. I am interested in becoming a software engineer in the future focused on the fields of AI, machine learning, and information retrieval. Some projects I am working on are a Supreme Bot and a keyphrase identification model used to classify large datasets of text.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "ericchoujr777@gmail.com",
+    "phone": "510-366-6095",
+    "address":{
+      "street":"",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.ericchoujr.com",
+    "resumedownload":"Resume.pdf",
+    "transcriptdownload": "transcript_FINAL.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/eric.chou.127/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/eric-chou-b2814717a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/babychoujr",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University of California, Irvine",
+        "degree":"Bachelors Degree in Computer Science",
+        "graduated":"June 2021",
+        "description":"Data Structures, Algorithms, Computer System Architecture, Operating Systems, Systems Design,  Information Retrieval, Computer Networks, Artificial Intelligence, Machine Learning"
+      }
+    ],
+    "work":[
+      {
+        "company":"Department of State",
+        "title":"Research Associate ",
+        "years":"Dec 2020 - Present",
+        "description":"Deploy a prototype environment specifically for keyphrase recognition, topic modeling, language identification, and translation. Classification of large datasets of texts into subjects based on specific keywords and phrases of interest"
+      },
+      {
+        "company":"Learning Assistant",
+        "title":"University of California Irvine",
+        "years":"Sept 2020 - Dec 2020",
+        "description":"Enhancing active learning through collaborative, and interactive small group instruction with students. Supporting professors and teaching assistants in lectures, labs, and discussions for 400 students."
+      },
+      {
+        "company":"Programming Instructor",
+        "title":"Progressive Kids",
+        "years":"Sept 2020 - Dec 2020",
+        "description":"Organized and guided the instruction of programming fundamentals for over 120 students. Collaborated with other instructors to improve instructional material to provide a better learning experience. All students implemented a graphical user interface for Tic-tac-toe in Python."
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Checkers AI bot",
+        "category":"a bot using Monte Carlo Tree Search running multiple iterations to predict next move",
+        "image":"checkers.jpg",
+        "url":"https://github.com/babychoujr/Checkers_AI"
+      },
+      {
+        "title":"Reddit Application",
+        "category":"Android app used to allow users to create posts and reply to posts. Users can choose to like/dislike on other posts.",
+        "image":"fury-fighting-gear.jpg",
+        "url":"https://github.com/babychoujr/Android-Reddit-App"
+      },
+      {
+        "title":"UCI Machine Learning Hacks",
+        "category":"A ml model used to classify the condition of the patient to check how urgent treatment is needed.",
+        "image":"uci_machine.gif",
+        "url":"https://github.com/babychoujr/UCI-ML-Hacks"
+      },
+      {
+        "title":"Shoe Sale Scraper",
+        "category":"This application scrapes shoes that are on sale and places the data into an AWS database(DynamoDB).",
+        "image":"resume-website.jpg",
+        "url":"https://github.com/babychoujr/Shoe-Sale-Scraper"
+      },
+      {
+        "title":"1 bit ALU",
+        "category":"A 1-bit ALU created in assembly",
+        "image":"smirkspace.jpg",
+        "url":"https://github.com/babychoujr/Assembly-Verilog"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"JUST DO IT.",
+        "user":"Nike"
+      },
+      {
+        "text":"Don't rely on wishful thinking",
+        "user":"Elon Musk"
+      }
+    ]
+  }
+}
