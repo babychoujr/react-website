@@ -1,8 +1,6 @@
 {
   "main": {
     "name":"Eric Chou",
-    "occupation":"Software Engineer",
-    "description":"I am interested in becoming a software engineer in the future focused on the fields of AI, machine learning, and information retrieval.",
     "image":"profilepic.jpg",
     "bio":"Hi, I'm Eric. I am currently a senior computer science major at the University of California, Irvine. I am interested in becoming a software engineer in the future focused on the fields of AI, machine learning, and information retrieval. Some projects I am working on are a Supreme Bot and a keyphrase identification model used to classify large datasets of text.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -87,15 +85,9 @@
         "url":"https://github.com/babychoujr/UCI-ML-Hacks"
       },
       {
-        "title":"Shoe Sale Scraper",
-        "category":"This application scrapes shoes that are on sale and places the data into an AWS database(DynamoDB).",
-        "image":"resume-website.jpg",
-        "url":"https://github.com/babychoujr/Shoe-Sale-Scraper"
-      },
-      {
         "title":"1 bit ALU",
         "category":"A 1-bit ALU created in assembly",
-        "image":"smirkspace.jpg",
+        "image":"ALU.jpg",
         "url":"https://github.com/babychoujr/Assembly-Verilog"
       }
     ]
